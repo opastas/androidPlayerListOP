@@ -24,4 +24,8 @@ The first screen to show is a table of users, fetched from resource of [JSONForm
 Allow filter data and print a list of all players
 whose height in inches adds up or are greater to the integer input to the application (search box has functionality to only allow digits (inputs such as . , - or letters will show an error in list - format error handler))
 
+## Instructions to install:
 
+1. Locate in path: Application/build/outputs/apk/debug/
+2. Drag and drop Application-debug.apk file in your Android device and follow instructions to install
+Kindly  if you face any issue, please contact dev: oscarmaurip@hotmail.com
